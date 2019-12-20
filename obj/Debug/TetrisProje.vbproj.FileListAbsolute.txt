@@ -1,0 +1,75 @@
+C:\Users\1600001429\Documents\MyGames\bin\Debug\Tetris.exe
+C:\Users\1600001429\Documents\MyGames\bin\Debug\Tetris.pdb
+C:\Users\1600001429\Documents\MyGames\bin\Debug\Tetris.xml
+C:\Users\1600001429\Documents\MyGames\obj\Debug\TetrisProje.vbproj.GenerateResource.Cache
+C:\Users\1600001429\Documents\MyGames\obj\Debug\Tetris.exe
+C:\Users\1600001429\Documents\MyGames\obj\Debug\Tetris.xml
+C:\Users\1600001429\Documents\MyGames\obj\Debug\Tetris.pdb
+C:\Users\1600001429\Documents\MyGames\obj\Debug\TetrisProje.Bilgi.resources
+C:\Users\1600001429\Documents\MyGames\obj\Debug\TetrisProje.Giris.resources
+C:\Users\1600001429\Documents\MyGames\obj\Debug\TetrisProje.Resources.resources
+C:\Users\1600001429\Documents\MyGames\obj\Debug\TetrisProje.TetrisGame.resources
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\Tetris.exe
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\Tetris.xml
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\Tetris.pdb
+C:\Users\1600001429\Documents\TetrisProje\bin\Debug\Tetris.exe
+C:\Users\1600001429\Documents\TetrisProje\bin\Debug\Tetris.pdb
+C:\Users\1600001429\Documents\TetrisProje\bin\Debug\Tetris.xml
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\TetrisProje.vbprojResolveAssemblyReference.cache
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\TetrisProje.Bilgi.resources
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\TetrisProje.Giris.resources
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\TetrisProje.Resources.resources
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\TetrisProje.TetrisGame.resources
+C:\Users\1600001429\Documents\TetrisProje\obj\Debug\TetrisProje.vbproj.GenerateResource.Cache
+C:\TetrisProje\obj\Debug\Tetris.exe
+C:\TetrisProje\obj\Debug\Tetris.xml
+C:\TetrisProje\obj\Debug\Tetris.pdb
+C:\TetrisProje\bin\Debug\Tetris.exe
+C:\TetrisProje\bin\Debug\Tetris.pdb
+C:\TetrisProje\bin\Debug\Tetris.xml
+C:\TetrisProje\obj\Debug\TetrisProje.vbprojResolveAssemblyReference.cache
+C:\TetrisProje\obj\Debug\TetrisProje.Bilgi.resources
+C:\TetrisProje\obj\Debug\TetrisProje.Giris.resources
+C:\TetrisProje\obj\Debug\TetrisProje.Resources.resources
+C:\TetrisProje\obj\Debug\TetrisProje.TetrisGame.resources
+C:\TetrisProje\obj\Debug\TetrisProje.vbproj.GenerateResource.Cache
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\Tetris.exe
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\Tetris.xml
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\Tetris.pdb
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\bin\Debug\Tetris.exe
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\bin\Debug\Tetris.pdb
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\bin\Debug\Tetris.xml
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.vbprojResolveAssemblyReference.cache
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.Bilgi.resources
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.Giris.resources
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.Resources.resources
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.TetrisGame.resources
+C:\Users\1600001123\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.vbproj.GenerateResource.Cache
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.vbprojResolveAssemblyReference.cache
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.Bilgi.resources
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.Giris.resources
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.Resources.resources
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.TetrisGame.resources
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.vbproj.GenerateResource.Cache
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\TetrisProje.vbproj.CoreCompileInputs.cache
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\Tetris.exe
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\Tetris.xml
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\obj\Debug\Tetris.pdb
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\bin\Debug\Tetris.exe
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\bin\Debug\Tetris.pdb
+C:\Users\berkc\Desktop\Tetris Proje Dosyaları\TetrisProje\bin\Debug\Tetris.xml
+D:\TetrisProje\obj\Debug\Tetris.exe
+D:\TetrisProje\obj\Debug\Tetris.xml
+D:\TetrisProje\obj\Debug\Tetris.pdb
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\Tetris.exe
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\Tetris.xml
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\Tetris.pdb
+C:\Users\1600001429\PROJE\TetrisProje\bin\Debug\Tetris.exe
+C:\Users\1600001429\PROJE\TetrisProje\bin\Debug\Tetris.pdb
+C:\Users\1600001429\PROJE\TetrisProje\bin\Debug\Tetris.xml
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\TetrisProje.vbprojResolveAssemblyReference.cache
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\TetrisProje.Bilgi.resources
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\TetrisProje.Giris.resources
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\TetrisProje.Resources.resources
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\TetrisProje.TetrisGame.resources
+C:\Users\1600001429\PROJE\TetrisProje\obj\Debug\TetrisProje.vbproj.GenerateResource.Cache

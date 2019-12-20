@@ -1,0 +1,47 @@
+E:\My Working Folder\TEMP\MyGames\MyGames\bin\Debug\MyGames.exe
+E:\My Working Folder\TEMP\MyGames\MyGames\bin\Debug\MyGames.pdb
+E:\My Working Folder\TEMP\MyGames\MyGames\bin\Debug\MyGames.xml
+E:\My Working Folder\TEMP\MyGames\MyGames\obj\Debug\ResolveAssemblyReference.cache
+E:\My Working Folder\TEMP\MyGames\MyGames\obj\Debug\MyGames.Resources.resources
+E:\My Working Folder\TEMP\MyGames\MyGames\obj\Debug\MyGames.TetrisGame.resources
+E:\My Working Folder\TEMP\MyGames\MyGames\obj\Debug\MyGames.vbproj.GenerateResource.Cache
+E:\My Working Folder\TEMP\MyGames\MyGames\obj\Debug\MyGames.exe
+E:\My Working Folder\TEMP\MyGames\MyGames\obj\Debug\MyGames.xml
+E:\My Working Folder\TEMP\MyGames\MyGames\obj\Debug\MyGames.pdb
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.exe
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.xml
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.pdb
+C:\Users\1600001123\Desktop\MyGames\bin\Debug\MyGames.exe
+C:\Users\1600001123\Desktop\MyGames\bin\Debug\MyGames.pdb
+C:\Users\1600001123\Desktop\MyGames\bin\Debug\MyGames.xml
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.vbprojResolveAssemblyReference.cache
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.Resources.resources
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.TetrisGame.resources
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.vbproj.GenerateResource.Cache
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.Giris.resources
+C:\Users\1600001123\Desktop\MyGames\obj\Debug\MyGames.Bilgi.resources
+C:\Users\berkc\Desktop\MyGames\obj\Debug\MyGames.vbprojResolveAssemblyReference.cache
+C:\Users\berkc\Desktop\MyGames\obj\Debug\MyGames.Bilgi.resources
+C:\Users\berkc\Desktop\MyGames\obj\Debug\MyGames.Giris.resources
+C:\Users\berkc\Desktop\MyGames\obj\Debug\MyGames.Resources.resources
+C:\Users\berkc\Desktop\MyGames\obj\Debug\MyGames.TetrisGame.resources
+C:\Users\berkc\Desktop\MyGames\obj\Debug\MyGames.vbproj.GenerateResource.Cache
+C:\Users\berkc\Desktop\MyGames\obj\Debug\MyGames.vbproj.CoreCompileInputs.cache
+C:\Users\berkc\Desktop\MyGames\bin\Debug\Tetris.exe
+C:\Users\berkc\Desktop\MyGames\bin\Debug\Tetris.pdb
+C:\Users\berkc\Desktop\MyGames\bin\Debug\Tetris.xml
+C:\Users\berkc\Desktop\MyGames\obj\Debug\Tetris.exe
+C:\Users\berkc\Desktop\MyGames\obj\Debug\Tetris.xml
+C:\Users\berkc\Desktop\MyGames\obj\Debug\Tetris.pdb
+C:\Users\1600001429\Documents\MyGames\obj\Debug\Tetris.exe
+C:\Users\1600001429\Documents\MyGames\obj\Debug\Tetris.xml
+C:\Users\1600001429\Documents\MyGames\obj\Debug\Tetris.pdb
+C:\Users\1600001429\Documents\MyGames\bin\Debug\Tetris.exe
+C:\Users\1600001429\Documents\MyGames\bin\Debug\Tetris.pdb
+C:\Users\1600001429\Documents\MyGames\bin\Debug\Tetris.xml
+C:\Users\1600001429\Documents\MyGames\obj\Debug\MyGames.vbprojResolveAssemblyReference.cache
+C:\Users\1600001429\Documents\MyGames\obj\Debug\MyGames.Bilgi.resources
+C:\Users\1600001429\Documents\MyGames\obj\Debug\MyGames.Giris.resources
+C:\Users\1600001429\Documents\MyGames\obj\Debug\MyGames.Resources.resources
+C:\Users\1600001429\Documents\MyGames\obj\Debug\MyGames.TetrisGame.resources
+C:\Users\1600001429\Documents\MyGames\obj\Debug\MyGames.vbproj.GenerateResource.Cache
